@@ -8,10 +8,10 @@ Quarta Noite - 6NA
 
 ## Link dataset
 
-###### Verficador de sintomas COVID-19
+###### Sintomas e resultado para COVID-19
 
-https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker
+https://www.kaggle.com/datasets/hemanthhari/symptoms-and-covid-presence
 
 ## Link dicionário de dados
 
-https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker
+https://www.kaggle.com/datasets/hemanthhari/symptoms-and-covid-presence
